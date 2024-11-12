@@ -17,9 +17,9 @@ make nusp/rev1/via
 * 其它零件
   * 土八螺母 m3x4x4.5      x 12
   * 沉頭螺絲 m3x8          x 12
-  * gasket棉條             x 一套
   * 矽膠腳墊8mmx5          x 8
   * 8p矽膠排線             x 1m
+  * gasket棉條             x 一套(韩国poron4*90厚2mm 15条) 裁一半45mm使用
 
 * 有線版
   * trrs座                 x 2
