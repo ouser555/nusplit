@@ -1,5 +1,6 @@
 # nusplit
-nusplit qmk
+nusplit qmk 0.26.10
+
 
 make nusp/rev1/via
 
