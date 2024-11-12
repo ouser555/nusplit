@@ -1,0 +1,22 @@
+{
+    "manufacturer": "ouser555",
+    "url": "https://github.com",
+    "maintainer": "ouser555",
+    "usb": {
+        "vid": "0xCA09"
+    },    
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "split": {
+        "enabled": true
+    },
+    "build": {
+        "lto": true
+    }
+}
